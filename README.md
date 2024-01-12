@@ -13,8 +13,10 @@ I'm a web developer student with a flair for illustration. 🎨
  --- 
 ### My Stats ✨
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annacano0&theme=light&show_icons=true&hide_border=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=annacano0&theme=light&hide_border=true" width="425">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annacano0&show_icons=true&theme=white&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=annacano0&theme=white&hide_border=true" width="421">
+</p>
 </p>
 
 ---
