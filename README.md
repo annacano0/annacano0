@@ -21,6 +21,6 @@ I'm a web developer student with a background in illustration. 🎨
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,ai,ps,vue,php,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,vue,php,docker,aws" />
   </a>
 </p>
