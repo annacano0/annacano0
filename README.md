@@ -1,20 +1,18 @@
 ### Hi! I'm Anna 🦦
 
-I'm a web developer student with a flair for illustration. 🎨
+I'm a web developer student with a background in illustration. 🎨
 
 ---
-### Know more :shipit: 
-- 🔭 I’m currently working on a Water Bill Calculator
-- 🌱 I’m currently learning Kotlin, JavaScript and SQL
-- 💬 Ask me about music recomendations
+### About me :shipit: 
+- 🔭 I’m currently working on a TODO app with Vue.js
+- 🌱 I’m currently learning Vue.js, Docker and 
 - 😄 Pronouns: she/her
-- 📚 Current favourite book: The Secret History
+- 📚 Currently reading: Babel
   
  --- 
 ### My Stats ✨
 <p align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annacano0&show_icons=true&theme=white&hide_border=true" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=annacano0&theme=white&hide_border=true" width="421">
 </p>
 </p>
@@ -23,6 +21,6 @@ I'm a web developer student with a flair for illustration. 🎨
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,ai,ps,vue,php,docker,aws" />
   </a>
 </p>
