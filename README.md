@@ -4,10 +4,10 @@ I'm a web developer student with a background in illustration. 🎨
 
 ---
 ### About me :shipit: 
-- 🔭 I’m currently working on a TODO app with Vue.js
-- 🌱 I’m currently learning Vue.js, Docker and 
+- 🔭 I’m currently working on a Memory card game
+- 🌱 I’m currently learning React, BDD and Vue.js
 - 😄 Pronouns: she/her
-- 📚 Currently reading: Babel
+- 📚 Currently reading: Game of Thrones
   
  --- 
 ### My Stats ✨
@@ -21,6 +21,6 @@ I'm a web developer student with a background in illustration. 🎨
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,vue,php,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,vue,php,docker,aws,react,gherkin" />
   </a>
 </p>
