@@ -1,13 +1,13 @@
-### Hi! I'm Anna 🦦
+### Hi! I'm Anna 
 
-I'm a web developer student with a background in illustration. 🎨
+I'm a web developer with a background in illustration. 🎨
 
 ---
-### About me :shipit: 
-- 🔭 I’m currently working on a Memory card game
-- 🌱 I’m currently learning React, BDD and Vue.js
+### About me
+- 🔭 I’m currently working on the classic tic-tac-toe with bdd
+- 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
-- 📚 Currently reading: Game of Thrones
+- 📚 Currently reading: Lord of the Rings
   
  --- 
 ### My Stats ✨
@@ -18,9 +18,9 @@ I'm a web developer student with a background in illustration. 🎨
 </p>
 
 ---
-
+### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,css,html,git,vue,php,docker,aws,react,gherkin" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,css,html,git,vue,php,docker,aws,react,gherkin,git,astro,java,spring" />
   </a>
 </p>
