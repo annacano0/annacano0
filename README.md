@@ -21,6 +21,6 @@ I'm a web developer with a background in illustration. 🎨
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,css,html,git,vue,php,docker,aws,react,gherkin,git,astro,java,spring" />
+    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,css,html,git,vue,php,docker,aws,react,gherkin,astro,java,spring" />
   </a>
 </p>
