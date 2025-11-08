@@ -2,10 +2,12 @@
 
 I'm a web developer with a background in illustration. 🎨
 
+Visit my website: [annacano.dev](https://annacano.dev/)
+
 ---
 ### About me
 - 🔭 I’m currently working on the classic tic-tac-toe with bdd
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & NestJS
 - 😄 Pronouns: she/her
 - 📚 Currently reading: Lord of the Rings
   
